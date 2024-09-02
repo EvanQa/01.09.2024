@@ -1,4 +1,3 @@
-# 01.09.2024
-basic programming
+# 02.09.24
+Homework2
 
-#Hello 
